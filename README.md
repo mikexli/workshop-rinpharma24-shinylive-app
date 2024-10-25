@@ -1,4 +1,4 @@
-# Starter app for R/Pharma 2024
+# Starter shinylive app for R/Pharma 2024
 
 Steps to complete:
 * Clone this repo to your personal GitHub
